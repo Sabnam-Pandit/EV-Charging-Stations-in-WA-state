@@ -16,10 +16,10 @@ This project aims to analyze the supply and demand dynamics of Electric Vehicle 
 ## Project Components
 
 ### 1. Data Sources
-- **Electric Vehicle Population Data**: [EV-Data Link](https://example.com/ev-data)
-- **Alternative Fuel Stations Data**: [Charging Stations - Data Link](https://example.com/charging-stations)
-- **American Community Survey (2021)**: [Census Data: Education and Income - Data Link](https://example.com/census-data)
-- **Crosswalk from ZCTA to Zip Code Database**: [Crosswalk Database Link](https://example.com/crosswalk-database)
+- **Electric Vehicle Population Data**: [EV-Data Link](https://data.wa.gov/Transportation/Electric-Vehicle-Population-Data/f6w7-q2d2/about_data)
+- **Alternative Fuel Stations Data**: [Charging Stations - Data Link](https://afdc.energy.gov/data)
+- **American Community Survey (2021)**: [Census Data: Education and Income - Data Link](https://www.census.gov/data.html)
+- **Crosswalk from ZCTA to Zip Code Database**: [Crosswalk Database Link](https://udsmapper.org/zip-code-to-zcta-crosswalk/)
 
 ### 2. Tools and Techniques
 - **Data Preprocessing**: Microsoft Excel, Python (pandas, sci-kit learn)
@@ -42,4 +42,4 @@ This project aims to analyze the supply and demand dynamics of Electric Vehicle 
 - **Tableau**: Used for initial exploratory data analysis and visualization of EV population and charging station distribution.
 - **ArcGIS**: Utilized for geospatial visualization, including EV hotspots, charging station buffers, and education level overlays.
 
-## Project Website: Visit the Website (https://sites.google.com/sdsu.edu/ev-chargingstations/home?authuser=1)
+## Project Website: Visit the Website [Website Link](https://sites.google.com/sdsu.edu/ev-chargingstations/home?authuser=1)
