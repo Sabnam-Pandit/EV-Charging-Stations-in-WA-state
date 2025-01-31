@@ -42,4 +42,4 @@ This project aims to analyze the supply and demand dynamics of Electric Vehicle 
 - **Tableau**: Used for initial exploratory data analysis and visualization of EV population and charging station distribution.
 - **ArcGIS**: Utilized for geospatial visualization, including EV hotspots, charging station buffers, and education level overlays.
 
-## Project Website: Visit the Website [Website Link](https://sites.google.com/sdsu.edu/ev-chargingstations/home?authuser=1)
+### Project Website: Visit the Website [Link](https://sites.google.com/sdsu.edu/ev-chargingstations/home?authuser=1)
